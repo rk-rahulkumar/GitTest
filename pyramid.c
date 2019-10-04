@@ -1,4 +1,8 @@
+<<<<<<< HEAD
     #include <stdio.h>
+=======
+#include <stdio.h>
+>>>>>>> test
     int main()
     {
         int i, j, rows;
